@@ -1,7 +1,7 @@
 {
   "name": "seasons",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://hajraata.github.io/seasons/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
